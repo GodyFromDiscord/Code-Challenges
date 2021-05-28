@@ -1,2 +1,3 @@
-# jschallenges
-This repo is used for JavaScript challenges I have completed
+# Coding Challenges
+
+The purpose of this repository is to provide my solutions to given issues rated on their difficulty
